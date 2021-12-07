@@ -1,3 +1,6 @@
 import { LightningElement } from 'lwc';
 
-export default class ConfigInTab extends LightningElement {}
+export default class ConfigInTab extends LightningElement {
+
+    
+}

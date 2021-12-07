@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>52.0</apiVersion>
-    <description>This component explains meta config</description>
+    <description>This component explains meta config in lwc</description>
     <isExposed>true</isExposed>
     <masterLabel>Meta Config Demo</masterLabel>
     <targets>
